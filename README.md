@@ -14,7 +14,9 @@
 
 
 ## My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=java, postgres, sqlite, spring, maven, gradle, androidstudio, firebase)](https://skillicons.dev)
+```md
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+```
 
 <br/>  
 
