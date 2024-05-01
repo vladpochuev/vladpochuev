@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Vlad, a student from Ukraine who really enjoys development in Java</div>  
   <br/>  
 
-- 🔭 I’m currently working on [my translate app for android](https://github.com/vladpochuev/translateApp)  
+- 🔭 I’m currently working on [my rethinking of the pastebin.com web app](https://github.com/vladpochuev/pastebin)
   
 
 - 🌱 I’m currently learning Spring🍃  
